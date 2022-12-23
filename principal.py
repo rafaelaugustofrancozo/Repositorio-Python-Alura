@@ -18,6 +18,7 @@ print(conta2.saldo)
 conta2.deposita(350.0)
 conta2.saca(350.0)
 conta2.extrato()
+print('TESTE DE PUSH')
 amplia_limite()
 
 
